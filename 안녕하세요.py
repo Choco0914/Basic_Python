@@ -9,8 +9,17 @@ name = '초코'
 파이썬에서는 변수를 지정해주고 옆에 값을 지정해줘서 변수를 불러오면 값을 불러올수
 있다
 """
-print(name)
+print(neme)
 # print괄호안에 변수명을 입력시켜 초코를 출력할수있다
+"""
+변수를 사용하다보면 이름을 잘못 입력해 error가 발생하기도 한다
+파일을 실행하면 아래와 같은 에러 메시지를 화면에 출력해서 사용자에게 보여준다
+Traceback (most recent call last):
+  File "안녕하세요.py", line 12, in <module> ...1.에러 위치를 알려준다
+    print(neme)
+NameError: name 'neme' is not defined2 ...2 어떤 에러가 발생했는지 알려준다
+"""
+
 print("'나의'뭐냐" + name)
 """
 print 괄호 안에 텍스트와 name변수를 더해서 화면에 출력할수있다
