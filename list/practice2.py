@@ -37,5 +37,7 @@ print(refuse_four + ' '+ refuse_message)
 print('Hi ' + invite_dinner[0] + " I'm going to invite you")
 print('Hi ' + invite_dinner[1] + " I'm going to invite you")
 # 초대가능한 두명에게 다시 초대메시지를 보냈다
+print(len(invite_dinner))
 del invite_dinner[:]
 print(invite_dinner)
+# 초대가능한 손님들 항목을 모두 지우고 비어있는지 확인하기 이해 출력해보았다
