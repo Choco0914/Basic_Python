@@ -17,3 +17,8 @@ print(players[2:])
 # 하게 된다
 print(players[-3:])
 # -를 사용하면 마지막 항목부터 리스트가 시작된다 마지막 3명을 출력해보자
+# 슬라이스에 루프 실행하기
+print("Here are the first three players on my team:")
+for player in players[:3]:
+    print(player.title())
+# 슬라이스를 루프를 이용해 출력해보았다
