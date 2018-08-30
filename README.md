@@ -10,3 +10,5 @@ It is Basic PYthon cource!
 주석 https://github.com/Choco0914/Basic_Python/tree/comment
 
 리스트 https://github.com/Choco0914/Basic_Python/tree/list
+
+if 조건문 https://github.com/Choco0914/Basic_Python/tree/if
