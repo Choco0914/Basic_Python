@@ -93,3 +93,9 @@ for name, languages in favorite_languages.items():
     print("\n" + name.title() + "'s favorite languages are:")
     for language in languages:
         print("\t" + language.title())
+"""
+좋아하는 프로그래밍 언어 예제에서 각 사람의 응답을 리스트에 저장했다면
+사람들은 좋아하는 언어를 하나 이상 선택할 수가 있었을 것이다 그 딕셔너리에 루프를
+실행하면 각 사람에 연결된 값은 언어 하나가 아니라 언어 리스트였을 것이다 딕셔너리의
+for 루프 안에서 다시 for 루프를 실행해 각 사람에 연결된 언어 리스트를 순회하자
+"""
