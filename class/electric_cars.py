@@ -1,4 +1,3 @@
-#상속
 """전기자동차를 나타낼 때 쓸 수 있는 코드"""
 
 from car_s import Car
@@ -38,8 +37,3 @@ class ElectricCar(Car):
     def fill_gas_tank(self):
         """전기자동차에는 연료 탱크가 업습니다."""
         print("This car doesn't need a gas tank!")
-
-my_tesla = ElectricCar('tesla', 'model s', 2018)
-print(my_tesla.get_descriptive_name())
-my_tesla.battery.describe_battery()
-my_tesla.battery.get_range()
