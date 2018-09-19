@@ -1,6 +1,6 @@
 # Basic_Python
 
-## reference
+## eference
 - [Python Crash Course](https://ehmatthes.github.io/pcc/solutions/README.html)
 
 ### It is Basic PYthon cource!
