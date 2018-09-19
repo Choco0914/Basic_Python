@@ -4,7 +4,7 @@
 ## Reference
 - [Python Crash Course](https://ehmatthes.github.io/pcc/solutions/README.html)
 
-### It is Basic PYthon cource!
+### It is Basic Python cource!
 
 1. [변수에러](https://github.com/Choco0914/Basic_Python/tree/basic)
 
