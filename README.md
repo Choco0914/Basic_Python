@@ -1,20 +1,21 @@
 # Basic_Python
-It is Basic PYthon cource!
 
-[변수에러](https://github.com/Choco0914/Basic_Python/tree/basic)
+## It is Basic PYthon cource!
 
-[문자열](https://github.com/Choco0914/Basic_Python/tree/string)
+1. [변수에러](https://github.com/Choco0914/Basic_Python/tree/basic)
 
-[숫자](https://github.com/Choco0914/Basic_Python/tree/number)
+2. [문자열](https://github.com/Choco0914/Basic_Python/tree/string)
 
-[주석](https://github.com/Choco0914/Basic_Python/tree/comment)
+3. [숫자](https://github.com/Choco0914/Basic_Python/tree/number)
 
-[리스트](https://github.com/Choco0914/Basic_Python/tree/list)
+4. [주석](https://github.com/Choco0914/Basic_Python/tree/comment)
 
-[if 조건문](https://github.com/Choco0914/Basic_Python/tree/if)
+5. [리스트](https://github.com/Choco0914/Basic_Python/tree/list)
 
-[Dictionary(딕셔너리)](https://github.com/Choco0914/Basic_Python/tree/dictionary)
+6. [if 조건문](https://github.com/Choco0914/Basic_Python/tree/if)
 
-[사용자 입력과 While 루프](https://github.com/Choco0914/Basic_Python/tree/while)
+7. [Dictionary(딕셔너리)](https://github.com/Choco0914/Basic_Python/tree/dictionary)
 
-[Function(함수)](https://github.com/Choco0914/Basic_Python/tree/function)
+8. [사용자 입력과 While 루프](https://github.com/Choco0914/Basic_Python/tree/while)
+
+9. [Function(함수)](https://github.com/Choco0914/Basic_Python/tree/function)
