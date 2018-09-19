@@ -23,3 +23,5 @@
 8. [사용자 입력과 While 루프](https://github.com/Choco0914/Basic_Python/tree/while)
 
 9. [Function(함수)](https://github.com/Choco0914/Basic_Python/tree/function)
+
+10. [Class](https://github.com/Choco0914/Basic_Python/tree/class)
