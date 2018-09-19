@@ -1,7 +1,5 @@
 # Basic_Python 
-<figure>
-<img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-</figure>
+![alt text](https://cdn0.froala.com/assets/editor/docs/server/meta-social/python-cf759f4cca6f3ce4a8977728986eafce.png)
 
 ## Reference
 - [Python Crash Course](https://ehmatthes.github.io/pcc/solutions/README.html)
